@@ -18,3 +18,5 @@ El CEO es la **figura de máxima autoridad** dentro de la organización **debe s
 ### Empleado
 
 Los empleados **deben tener un superior** para poder añadirse a la organización, el empleado (al igual que el CEO) cuentan con las propiedades nombre, DNI y puesto, **el DNI debe ser un identificador único** y no pueden añadirse mas de un empleado con el mismo DNI. El mismo empleado **no puede ser añadido como subordinado de dos superiores a la vez** (seran sus superiores todos los empleados que le antecedan dentro de la jerarquía).
+
+### Link al video de youtube: https://www.youtube.com/watch?v=KkL2CSzjZjo
